@@ -14,7 +14,9 @@ print("Oi, me chamo %s. Eu tenho %d anos de idade, trabalho como %s, e estou mat
 
 
 
-# Estilo Format (Melhor que a anterior, porém apresenta o mesmo problema)
+'''Estilo Format (Melhor que a anterior, porém apresenta o mesmo problema, onde as variáveis devem ser declarada e colocadas na messma ordem em que foram declaradas dentro da string, 
+para que o valor seja devidamente tribuído a sua variável de destino'''
+
 nome = "John"
 idade = 27 
 profissao = "Data Analytics"
